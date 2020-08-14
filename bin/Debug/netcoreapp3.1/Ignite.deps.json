@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ignite/1.0.0": {
+        "dependencies": {
+          "System.CommandLine.DragonFruit": "0.3.0-alpha.20303.1"
+        },
+        "runtime": {
+          "Ignite.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.4.1": {},
+      "System.CommandLine/2.0.0-beta1.20303.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.1",
+          "System.Memory": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.CommandLine.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20.30301"
+          }
+        }
+      },
+      "System.CommandLine.DragonFruit/0.3.0-alpha.20303.1": {
+        "dependencies": {
+          "System.CommandLine": "2.0.0-beta1.20303.1",
+          "System.CommandLine.Rendering": "0.3.0-alpha.20303.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.CommandLine.DragonFruit.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.300.20.30301"
+          }
+        }
+      },
+      "System.CommandLine.Rendering/0.3.0-alpha.20303.1": {
+        "dependencies": {
+          "System.CommandLine": "2.0.0-beta1.20303.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.CommandLine.Rendering.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.300.20.30301"
+          }
+        }
+      },
+      "System.Memory/4.5.4": {}
+    }
+  },
+  "libraries": {
+    "Ignite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A5hI3gk6WpcBI0QGZY6/d5CCaYUxJgi7iENn1uYEng+Olo8RfI5ReGVkjXjeu3VR3srLvVYREATXa2M0X7FYJA==",
+      "path": "microsoft.csharp/4.4.1",
+      "hashPath": "microsoft.csharp.4.4.1.nupkg.sha512"
+    },
+    "System.CommandLine/2.0.0-beta1.20303.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2CknrYJXyL+tV523KL3Sm9UBq/ZaAXwToU+d+ScqTZOuaVmGpeAOXOHxkBYeuabTBuhWAij/Quv4dpeqSzHsxA==",
+      "path": "system.commandline/2.0.0-beta1.20303.1",
+      "hashPath": "system.commandline.2.0.0-beta1.20303.1.nupkg.sha512"
+    },
+    "System.CommandLine.DragonFruit/0.3.0-alpha.20303.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7aTJ6e3TYpqIDG1IpeSOWaIoCRcyTZ6AD/olb/Ow/7CB5OaEnqXI8aDXnD3lVqXqQsVrJ+OZHfeS+udZHPCD1Q==",
+      "path": "system.commandline.dragonfruit/0.3.0-alpha.20303.1",
+      "hashPath": "system.commandline.dragonfruit.0.3.0-alpha.20303.1.nupkg.sha512"
+    },
+    "System.CommandLine.Rendering/0.3.0-alpha.20303.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dx4UQO+kjcrKE5Q9Rz0/rgXhhXrzIXuWW26ZmQw4wEOW7n6yHyavgT+uJ7dbW/4gA/KdzCayyr+umDEu//u5pg==",
+      "path": "system.commandline.rendering/0.3.0-alpha.20303.1",
+      "hashPath": "system.commandline.rendering.0.3.0-alpha.20303.1.nupkg.sha512"
+    },
+    "System.Memory/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "path": "system.memory/4.5.4",
+      "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    }
+  }
+}

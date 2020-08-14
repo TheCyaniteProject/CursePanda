@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ignite</name>
+    </assembly>
+    <members>
+        <member name="M:Project_Ignite.Program.Main(System.String[],System.IO.FileInfo,System.IO.FileInfo,System.Boolean)">
+            <summary>Test Encryptor</summary>
+            <param name="input">File input</param>
+            <param name="output">File output</param>
+            <param name="decode">Decode File</param>
+        </member>
+    </members>
+</doc>
