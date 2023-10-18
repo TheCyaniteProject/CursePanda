@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CursePanda": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\Users\\thecy\\Desktop\\DotNET Projects\\CursePanda\\bin\\Debug\\net7.0\\Test.txt\" -p \"password1\""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\bin\Release\net7.0\CursePanda.exe
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\bin\Release\net7.0\CursePanda.deps.json
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\bin\Release\net7.0\CursePanda.runtimeconfig.json
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\bin\Release\net7.0\CursePanda.dll
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\bin\Release\net7.0\CursePanda.pdb
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.AssemblyInfoInputs.cache
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.AssemblyInfo.cs
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.csproj.CoreCompileInputs.cache
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.dll
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\refint\CursePanda.dll
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.pdb
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\CursePanda.genruntimeconfig.cache
+C:\Users\thecy\Desktop\DotNET Projects\CursePanda\obj\Release\net7.0\ref\CursePanda.dll
